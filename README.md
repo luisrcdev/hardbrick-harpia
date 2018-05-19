@@ -7,7 +7,7 @@
 El Hardbrick es ocasionado principalmente cuando se apaga durante una actualización de firmware, el teléfono se queda a medio proceso y sin un sistema operativo completo, por lo tanto no enciende.
 
 La solución está aqui, **lee todo antes de, para que entiendas que se va a hacer**, vamos a reinstalar un bootloader no original y bloqueado (éste no se puede desbloquear con el metodo de motorola que conocemos), posteriormente vamos a instalar un firmware especifico con unos comandos especificos, descargaremos todo junto para eviatar cualquier duda. Tardará al arrancar pero finalmente lo hará!
-> **Nota:** si solo estás en modo bootloader y quieres un firmware ve al paso numero
+> **Nota:** si solo estás en modo bootloader y quieres un firmware ve al paso 3
 # Instrucciones
 ## 1.- Preparar la pc (windows 7 - 10)
 - Descargar y descomprimir [Qualcommdrv.zip](google.com), y abrir posteriormente la carpeta que necesite su sistema operativo 32 o 64 bits. Instala el ejecutable dpinst64.exe ó dpinst32.exe
