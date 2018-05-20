@@ -22,7 +22,7 @@ La solución está aqui, **lee todo antes de, para que entiendas que se va a hac
 
 ## 3.- Instalar el firmware específico
 > Una vez reconocido el moto g4 play ya tendremos instalado el bootloader no original y ahora vamos a acceder al modo bootloader de manera normal (power y vol- al mismo tiempo 3 segundos)
-- Descargamos la [carpeta maestra](https://bit.ly/2k8HWnT) con todo lo necesario, incluye el firmware especifico para que funcione, los comandos especificos y el plataform-tools
+- Descargamos la [carpeta maestra](https://bit.ly/2KEtDmc) con todo lo necesario, incluye el firmware especifico para que funcione, los comandos especificos y el plataform-tools
 - Finalmente solo ejecutamos el archivo **flash rom stock.bat**, dar enter al final del proceso para que se reincie y listo, tendría que estar iniciando en la rom stock (éste reincio tarda mas que el normal, sean pacientes)
 ### Dudas por twitter [@luisrcdev](https://twitter.com/luisrcdev)
 Genial! [Y si me disparas un café? <3](https://paypal.me/luisrcdev1)
