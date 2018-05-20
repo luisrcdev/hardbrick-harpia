@@ -25,4 +25,4 @@ La solución está aqui, **lee todo antes de, para que entiendas que se va a hac
 - Descargamos la [carpeta maestra](https://bit.ly/2k8HWnT) con todo lo necesario, incluye el firmware especifico para que funcione, los comandos especificos y el plataform-tools
 - Finalmente solo ejecutamos el archivo **flash rom stock.bat**, dar enter al final del proceso para que se reincie y listo, tendría que estar iniciando en la rom stock (éste reincio tarda mas que el normal, sean pacientes)
 ### Dudas por twitter [@luisrcdev](https://twitter.com/luisrcdev)
-Genial! [Y si me disparas un café? <3](https://paypal.me/luisrcdev)
+Genial! [Y si me disparas un café? <3](https://paypal.me/luisrcdev1)
